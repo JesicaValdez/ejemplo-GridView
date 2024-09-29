@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\bin\Debug\Dominio.dll
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\bin\Debug\Dominio.pdb
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\obj\Debug\Dominio.dll
+C:\Users\user\source\repos\ejemplo-nivel-3\Dominio\obj\Debug\Dominio.pdb
